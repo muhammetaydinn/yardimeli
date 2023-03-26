@@ -1,0 +1,2 @@
+# yardimeli
+gdsc solution challenge
